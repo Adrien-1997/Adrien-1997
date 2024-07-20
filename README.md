@@ -1,4 +1,4 @@
-👋 Hi, I'm Adrien Morel!
+👋 Hi, I'm Adrien!
 
 I'm an applied mathematics engineer on a journey to becoming a data scientist. With a foundation in mathematical modeling and data analysis, I'm passionate about leveraging data to drive insights and decisions.
 
