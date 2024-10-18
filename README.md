@@ -23,7 +23,7 @@ French, English , Italian, Spanish
 📫 Let's Connect: [LinkedIn](https://www.linkedin.com/in/adrien-morel) | [Email](mailto:adrien.morel@gmail.com)
 
 # 📈 GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&size_weight=0.5&count_weight=0.5)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!---
