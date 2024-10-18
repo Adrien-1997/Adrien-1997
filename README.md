@@ -21,9 +21,6 @@ French, English , Italian, Spanish
 🌐 Visit my [portfolio](https://portfolio-ad94d.web.app/)
 
 📫 Let's Connect: [LinkedIn](https://www.linkedin.com/in/adrien-morel) | [Email](mailto:adrien.morel@gmail.com)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-
 <!---
 Adrien-1997/Adrien-1997 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
