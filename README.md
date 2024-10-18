@@ -1,4 +1,4 @@
-👋 Hi, I'm Adrien!
+# 👋 Hi, I'm Adrien!
 
 Try to be a data scientist...
 
@@ -21,6 +21,9 @@ French, English , Italian, Spanish
 🌐 Visit my [portfolio](https://portfolio-ad94d.web.app/)
 
 📫 Let's Connect: [LinkedIn](https://www.linkedin.com/in/adrien-morel) | [Email](mailto:adrien.morel@gmail.com)
+
+📈 GitHub Stats
+Lino's github stats	
 <!---
 Adrien-1997/Adrien-1997 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
