@@ -20,7 +20,7 @@ French, English , Italian, Spanish
 
 🌐 Visit my [portfolio](https://portfolio-ad94d.web.app/)
 
-📫 Let's Connect: [LinkedIn](https://www.linkedin.com/in/adrien-morel) | [Email](mailto:etudesadrien@gmail.com)
+📫 Let's Connect: [LinkedIn](https://www.linkedin.com/in/adrien-morel) | [Email](mailto:adrien.morel@gmail.com)
 
 <!---
 Adrien-1997/Adrien-1997 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
