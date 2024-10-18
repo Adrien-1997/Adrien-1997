@@ -18,6 +18,8 @@ French, English , Italian, Spanish
 
 📈 Aspiration: Eager to transition fully into a data scientist role and work on projects with a positive societal impact.
 
+🌐 Visit my [portfolio](https://portfolio-ad94d.web.app/)
+
 📫 Let's Connect: [LinkedIn](https://www.linkedin.com/in/adrien-morel) | [Email](mailto:etudesadrien@gmail.com)
 
 <!---
