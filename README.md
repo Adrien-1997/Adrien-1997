@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Adrien
 
 
-Trying to be a data scientist
+Aspiring Data Scientist.
 
 🎓 Education:
 - Applied mathematics engineer (CY Tech, France)
