@@ -1,7 +1,6 @@
-# 👋 Hi, I'm Adrien
+# 👋 Hi
 
-
-Aspiring Data Scientist.
+Adrien Morel, Data Scientist.
 
 🎓 Education:
 - Applied mathematics engineer (CY Tech, France)
