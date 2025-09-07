@@ -8,22 +8,16 @@ I help teams turn messy data into measurable decisions — statistics first, rob
 ## Featured projects (4)
 
 1. **Crime & Safety Dashboard — France (2016–2024)**  
-   Streamlit app (WIP): ingestion, spatio-temporal analysis, clustering, anomaly detection, simple forecasting.  
-   Repo → https://github.com/Adrien-1997/dashboard-delinquance-france
+   Repo → https://github.com/Adrien-1997/crime-safety-dashboard-fr
 
 2. **Applied ML Playbook**  
-   Curated notebooks for common DS problems (EDA, time series, baselines, evaluation).  
-   Repo → https://github.com/Adrien-1997/Applied-ML
+   Repo → https://github.com/Adrien-1997/applied-ml-playbook
 
-3. **Kaggle Competitions — Learning in Public**  
-   Competition notebooks organized by challenge with clear metrics and takeaways.  
-   Repo → https://github.com/Adrien-1997/Kaggle-Competitions
+3. **Kaggle — Learning in Public**  
+   Repo → https://github.com/Adrien-1997/kaggle-learning
 
 4. **Espace Trinité — Static Website (Client)**  
-   Production-ready static site (HTML/CSS/JS), Netlify + Cloudflare Turnstile, documented deployment.  
    Repo → https://github.com/Adrien-1997/espace-trinite
-
-> Pin these 4 repositories on your profile for quick access.
 
 ---
 
