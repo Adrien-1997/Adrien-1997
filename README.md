@@ -4,7 +4,7 @@ Je conçois des **outils de décision simples** à partir de données (opératio
 
 - 📍 Paris (ou remote) • 🔎 Ouvert aux opportunités DS/ML (CDI ou mission)
 - 🧰 Python, SQL, Feature Eng., Forecasting, Anomaly Detection, NLP, BI
-- ✉️ adrien.morel@gmail.com • 🔗 LinkedIn : linkedin.com/in/adrien-morel
+- ✉️ adrien.morel@gmail.com • 🔗 [LinkedIn](https://www.linkedin.com/in/adrien-morel/)
 
 ---
 
@@ -60,5 +60,5 @@ Français (nat.), Anglais (C1), Espagnol (B2), Italien (B2)
 
 ## 🤝 Contact
 - ✉️ **adrien.morel@gmail.com**
-- 🔗 **linkedin.com/in/adrien-morel**
+- 🔗 **[linkedin.com/in/adrien-morel](https://www.linkedin.com/in/adrien-morel/)**
 - 💬 Dispo pour échanger (30 min) sur vos sujets data / ML appliqué
