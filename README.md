@@ -8,7 +8,7 @@ Recette : cadrage métier clair → data propre → features pertinentes → mod
 
 ---
 
-## Compétences cœur (étoffées)
+## Compétences cœur
 - **Maths & Stats** : régression/GLM (L1/L2/ElasticNet), tests d’hypothèses, A/B testing, bootstrap, intervalles & incertitudes.
 - **Feature Engineering** : lags/rolling/tendances, encodages (one-hot, target), binning, gestion des manquants/outliers, géo-features simples.
 - **Modèles supervisés** : LightGBM/XGBoost, Random Forest, linéaires, SVM ; déséquilibre (class weights/sampling), calibration, interprétabilité (permutation, SHAP léger).
