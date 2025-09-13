@@ -5,7 +5,7 @@ I build practical, data-driven tools with clear metrics and lightweight delivery
 - Paris (remote-friendly) — Open to collaborations and roles
 - GitHub: [Adrien-1997](https://github.com/Adrien-1997) • LinkedIn: [adrien-morel](https://www.linkedin.com/in/adrien-morel/) • Email: [adrien.morel@gmail.com](mailto:adrien.morel@gmail.com)
 
-## Skills (quick)
+## Skills
 Python (pandas, NumPy, scikit-learn, LightGBM), SQL • DuckDB/Parquet • Streamlit, Power BI • GitHub Actions • basics: Docker, GCP
 
 ## Selected projects
