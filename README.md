@@ -1,4 +1,4 @@
-# Adrien Morel — Data Scientist / Applied ML 🤝
+# Adrien Morel — Data Scientist / Applied ML
 
 I build practical, data-driven tools with clear metrics and lightweight delivery (Python/SQL → features → model → exports/docs). Code and documentation are published openly on GitHub.
 
