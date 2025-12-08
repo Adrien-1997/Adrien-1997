@@ -55,8 +55,6 @@ All my code and technical documentation are published openly on GitHub.
 ![Docker](https://img.shields.io/badge/Docker-000000?style=flat&logo=docker)
 ![GitHub_Actions](https://img.shields.io/badge/GitHub_Actions-000000?style=flat&logo=githubactions)
 ![Google_Cloud](https://img.shields.io/badge/Google_Cloud-000000?style=flat&logo=googlecloud)
-![Cloud_Run](https://img.shields.io/badge/Cloud%20Run-000000?style=flat)
-![Cloud_Scheduler](https://img.shields.io/badge/Cloud%20Scheduler-000000?style=flat)
 
 ---
 
