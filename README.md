@@ -58,6 +58,12 @@ All my code and technical documentation are published openly on GitHub.
 
 ---
 
+## Certifications
+
+- **Scikit-Learn Certification** — [View credential](https://www.credly.com/badges/198a2362-2d33-4a72-8f9e-f96102ffddec)
+
+---
+
 ## Selected projects
 
 ### Bike availability forecasting — Paris (T+1h)
