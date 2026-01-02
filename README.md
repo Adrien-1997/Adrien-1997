@@ -20,41 +20,20 @@ All my code and technical documentation are published openly on GitHub.
 
 ## Tech stack
 
-### Core — Data Science
-![Python](https://img.shields.io/badge/Python-000000?style=flat&logo=python)
-![SQL](https://img.shields.io/badge/SQL-000000?style=flat&logo=postgresql)
-![Pandas](https://img.shields.io/badge/Pandas-000000?style=flat&logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-000000?style=flat&logo=numpy)
-![Scikit--learn](https://img.shields.io/badge/Scikit--learn-000000?style=flat&logo=scikit-learn)
-![Statsmodels](https://img.shields.io/badge/Statsmodels-000000?style=flat)
+### Core — Data Science & Machine Learning
+Python · SQL · scikit-learn · NumPy · Pandas · Statsmodels  
+Feature engineering · Model evaluation · Time series modeling · Anomaly detection
 
 ### Applied Machine Learning
-![Feature_Engineering](https://img.shields.io/badge/Feature_Engineering-000000?style=flat)
-![Supervised_Learning](https://img.shields.io/badge/Supervised_Learning-000000?style=flat)
-![Unsupervised_Learning](https://img.shields.io/badge/Unsupervised_Learning-000000?style=flat)
-![Time_Series_Modeling](https://img.shields.io/badge/Time--Series_Modeling-000000?style=flat)
-![Anomaly_Detection](https://img.shields.io/badge/Anomaly_Detection-000000?style=flat)
-![Model_Evaluation](https://img.shields.io/badge/Model_Evaluation-000000?style=flat)
+Supervised learning · Unsupervised learning · Cross-validation ·  
+Ensemble methods · Hyperparameter tuning · Metrics & diagnostics · Predictive modeling
+
+### ML Engineering & MLOps
+FastAPI · REST API · Docker · GitHub Actions · Compute automation · CI/CD · Remote compute orchestration  
+Reproducible workflows · Versioning · Testing & monitoring · API design
 
 ### Data & Analytics
-![Power_BI](https://img.shields.io/badge/Power%20BI-000000?style=flat&logo=powerbi)
-![Streamlit](https://img.shields.io/badge/Streamlit-000000?style=flat&logo=streamlit)
-![Jupyter](https://img.shields.io/badge/Jupyter-000000?style=flat&logo=jupyter)
-![Snowflake](https://img.shields.io/badge/Snowflake-000000?style=flat&logo=snowflake)
-![Parquet](https://img.shields.io/badge/Parquet-000000?style=flat)
-
-### Backend & Product
-![FastAPI](https://img.shields.io/badge/FastAPI-000000?style=flat&logo=fastapi)
-![REST_API](https://img.shields.io/badge/REST_API-000000?style=flat)
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat&logo=javascript)
-![Node.js](https://img.shields.io/badge/Node.js-000000?style=flat&logo=node.js)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js)
-
-### Engineering, CI/CD & Cloud
-![Git](https://img.shields.io/badge/Git-000000?style=flat&logo=git)
-![Docker](https://img.shields.io/badge/Docker-000000?style=flat&logo=docker)
-![GitHub_Actions](https://img.shields.io/badge/GitHub_Actions-000000?style=flat&logo=githubactions)
-![Google_Cloud](https://img.shields.io/badge/Google_Cloud-000000?style=flat&logo=googlecloud)
+Power BI · Streamlit · Jupyter · Snowflake · Parquet · Data quality & ETL
 
 ---
 
