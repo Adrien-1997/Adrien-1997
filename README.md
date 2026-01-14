@@ -1,4 +1,4 @@
-# Adrien Morel — Data Scientist · Applied Machine Learning
+# Adrien Morel
 
 Paris · Remote-friendly  
 [GitHub](https://github.com/Adrien-1997) · [LinkedIn](https://www.linkedin.com/in/adrien-morel/) · [Email](mailto:adrien.morel@gmail.com)
