@@ -26,15 +26,6 @@ Python · SQL · NumPy · Pandas · SciPy · scikit-learn · MLflow · PyTorch �
 
 ---
 
-## How I design ML systems
-
-- Problem framing before modeling
-- Baselines before complexity
-- Metrics before optimization
-- Performance and costs before scale
-
----
-
 ## Work
 
 - Open-source contributor to Skore (Probabl) — ML evaluation and API quality
