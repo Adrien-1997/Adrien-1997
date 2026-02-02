@@ -1,100 +1,29 @@
-# Adrien Morel
+ML Engineer / Data Scientist — Paris
 
-Paris · Remote-friendly  
-[GitHub](https://github.com/Adrien-1997) · [LinkedIn](https://www.linkedin.com/in/adrien-morel/) · [Email](mailto:adrien.morel@gmail.com)
+Machine learning appliqué, avec un focus sur la qualité des signaux,
+l’évaluation rigoureuse et la mise en production reproductible.
 
----
+Stack
+Python · SQL · NumPy · Pandas · SciPy · scikit-learn · MLflow · PyTorch · Git · CI/CD · Cloud
 
-## About
+Sujets de prédilection
+• Feature engineering
+• Séries temporelles et détection d’anomalies
+• Évaluation de modèles et diagnostics
+• Entraînement et inférence reproductibles
 
-I build **practical, data-driven products** with a strong focus on clarity, metrics, and reproducibility.
+Comment je conçois les systèmes ML
+• Le cadrage du problème précède la modélisation
+• Les baselines précèdent la complexité
+• Les métriques précèdent l’optimisation
+• La performance et les coûts précèdent le scale
 
-My work usually follows a simple but rigorous path:
+Fondations théoriques
+Probabilités et statistiques · Apprentissage statistique ·
+Optimisation et fondements du deep learning · Ingénierie Python et pratiques DevOps
 
-**Python / SQL → feature engineering → modeling → evaluation → clean exports & documentation**
+Contributeur open-source à Skore (Probabl) · évaluation ML et qualité d’API
+Auteur de velo-paris.fr, un système de forecasting ML déployé en production
 
-I care as much about *what a model does* as about **how it is built, explained, and maintained**.  
-All my code and technical documentation are published openly on GitHub.
-
----
-
-## Tech stack
-
-### Core — Data Science & Machine Learning
-Python · SQL · scikit-learn · NumPy · Pandas · Statsmodels  
-Feature engineering · Model evaluation · Time series modeling · Anomaly detection
-
-### Applied Machine Learning
-Supervised learning · Unsupervised learning · Cross-validation ·  
-Ensemble methods · Hyperparameter tuning · Metrics & diagnostics · Predictive modeling
-
-### ML Engineering & MLOps
-FastAPI · REST API · Docker · GitHub Actions · Compute automation · CI/CD · Remote compute orchestration  
-Reproducible workflows · Versioning · Testing & monitoring · API design
-
-### Data & Analytics
-Power BI · Streamlit · Jupyter · Snowflake · Parquet · Data quality & ETL
-
----
-
-## Certifications
-
-[![Scikit-learn Associate Practitioner Certification](scikit-learn-associate-practitioner-certification%20(2).png)](https://www.credly.com/badges/198a2362-2d33-4a72-8f9e-f96102ffddec)
-
----
-
-## Selected projects
-
-### Bike availability forecasting — Paris (T+1h)
-
-End-to-end forecasting pipeline for Vélib’ bike availability.
-
-- Feature engineering (temporal, usage-based)
-- Supervised ML forecasting
-- Clear evaluation metrics
-- Public documentation & demo site
-
-Repository  
-https://github.com/Adrien-1997/bike-forecast-paris-velib
-
----
-
-### Crime & Safety Dashboard — France (2016–2024)
-
-Exploratory and analytical dashboard focused on **readable public indicators**:
-
-- Rates per 1,000 inhabitants
-- Temporal trends & anomalies
-- Emphasis on statistical clarity and storytelling
-
-Repository  
-https://github.com/Adrien-1997/crime-safety-dashboard-fr
-
----
-
-### Kaggle — structured learning & clean baselines
-
-Collection of notebooks focused on:
-- Solid EDA
-- Reproducible baselines
-- Clear assumptions and validation
-
-Repository  
-https://github.com/Adrien-1997/kaggle-learning
-
----
-
-## How I work
-
-- Start from a **concrete question or metric**
-- Build a **useful prototype quickly**
-- Iterate using real feedback
-- Reinforce with validation, documentation, and light monitoring
-
----
-
-## Currently open to
-
-- Data Scientist / Applied ML roles  
-- Freelance & collaboration opportunities  
-- Projects where data is expected to **support real decisions**
+Disponible immédiatement — CDI / Freelance
+📧 adrien.morel@gmail.com
