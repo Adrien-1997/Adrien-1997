@@ -1,29 +1,47 @@
-ML Engineer / Data Scientist — Paris
+# Adrien Morel
 
-Machine learning appliqué, avec un focus sur la qualité des signaux,
-l’évaluation rigoureuse et la mise en production reproductible.
+Paris · Remote-friendly  
+[GitHub](https://github.com/Adrien-1997) · [LinkedIn](https://www.linkedin.com/in/adrien-morel/) · [Email](mailto:adrien.morel@gmail.com)
 
-Stack
+---
+
+ML Engineer / Data Scientist
+
+Applied machine learning with a focus on signal quality, rigorous evaluation, and reproducible production systems.
+
+---
+
+## Stack
+
 Python · SQL · NumPy · Pandas · SciPy · scikit-learn · MLflow · PyTorch · Git · CI/CD · Cloud
 
-Sujets de prédilection
-• Feature engineering
-• Séries temporelles et détection d’anomalies
-• Évaluation de modèles et diagnostics
-• Entraînement et inférence reproductibles
+---
 
-Comment je conçois les systèmes ML
-• Le cadrage du problème précède la modélisation
-• Les baselines précèdent la complexité
-• Les métriques précèdent l’optimisation
-• La performance et les coûts précèdent le scale
+## Focus areas
 
-Fondations théoriques
-Probabilités et statistiques · Apprentissage statistique ·
-Optimisation et fondements du deep learning · Ingénierie Python et pratiques DevOps
+- Feature engineering
+- Time series and anomaly detection
+- Model evaluation and diagnostics
+- Reproducible training and inference
 
-Contributeur open-source à Skore (Probabl) · évaluation ML et qualité d’API
-Auteur de velo-paris.fr, un système de forecasting ML déployé en production
+---
 
-Disponible immédiatement — CDI / Freelance
-📧 adrien.morel@gmail.com
+## How I design ML systems
+
+- Problem framing before modeling
+- Baselines before complexity
+- Metrics before optimization
+- Performance and costs before scale
+
+---
+
+## Work
+
+- Open-source contributor to Skore (Probabl) — ML evaluation and API quality
+- Author of velo-paris.fr — production ML forecasting system
+
+---
+
+## Certification
+
+[Scikit-learn Associate Practitioner](https://www.credly.com/badges/198a2362-2d33-4a72-8f9e-f96102ffddec)
