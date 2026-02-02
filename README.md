@@ -44,4 +44,4 @@ Python · SQL · NumPy · Pandas · SciPy · scikit-learn · MLflow · PyTorch �
 
 ## Certification
 
-[Scikit-learn Associate Practitioner](https://www.credly.com/badges/198a2362-2d33-4a72-8f9e-f96102ffddec)
+[![Scikit-learn Associate Practitioner Certification](scikit-learn-associate-practitioner-certification%20(2).png)](https://www.credly.com/badges/198a2362-2d33-4a72-8f9e-f96102ffddec)
