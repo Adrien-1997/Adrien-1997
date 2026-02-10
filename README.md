@@ -33,6 +33,8 @@ Python · SQL · NumPy · Pandas · SciPy · scikit-learn · MLflow · PyTorch �
 
 ---
 
-## Certification
+## Certifications
 
-[![Scikit-learn Associate Practitioner Certification](scikit-learn-associate-practitioner-certification%20(2).png)](https://www.credly.com/badges/198a2362-2d33-4a72-8f9e-f96102ffddec)
+[![Scikit-learn Associate Practitioner](scikit-learn-associate-practitioner-certification%20(2).png)]([https://www.credly.com/badges/198a2362-2d33-4a72-8f9e-f96102ffddec](https://www.credly.com/badges/198a2362-2d33-4a72-8f9e-f96102ffddec/public_url))
+
+[![Associate Cloud Engineer](associate-cloud-engineer-certification.png)]([https://www.credly.com/badges/198a2362-2d33-4a72-8f9e-f96102ffddec](https://www.credly.com/badges/56043961-76e2-4a06-8cb7-158a01dc7eaf/public_url))
