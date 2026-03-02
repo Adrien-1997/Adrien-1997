@@ -26,6 +26,14 @@ Python · SQL · NumPy · Pandas · SciPy · scikit-learn · MLflow · PyTorch �
 
 ---
 
+## Projects
+
+**[elec-forecast](https://github.com/Adrien-1997/elec-forecast)** — End-to-end ML pipeline for 24h electricity demand forecasting across 12 French regions. LightGBM · BigQuery · Cloud Run · MLflow · Streamlit · [Live dashboard](https://elec-dashboard-931951823998.europe-west9.run.app)
+
+**velo-paris.fr** — Production ML forecasting system for Vélib bike-share availability in Paris.
+
+---
+
 ## Work
 
 - Open-source contributor to Skore (Probabl) — ML evaluation and API quality
@@ -35,6 +43,21 @@ Python · SQL · NumPy · Pandas · SciPy · scikit-learn · MLflow · PyTorch �
 
 ## Certifications
 
-[![Scikit-learn Associate Practitioner](scikit-learn-associate-practitioner-certification%20(2).png)]([https://www.credly.com/badges/198a2362-2d33-4a72-8f9e-f96102ffddec](https://www.credly.com/badges/198a2362-2d33-4a72-8f9e-f96102ffddec/public_url))
-
-[![Associate Cloud Engineer](associate-cloud-engineer-certification.png)]([https://www.credly.com/badges/198a2362-2d33-4a72-8f9e-f96102ffddec](https://www.credly.com/badges/56043961-76e2-4a06-8cb7-158a01dc7eaf/public_url))
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://www.credly.com/badges/198a2362-2d33-4a72-8f9e-f96102ffddec/public_url">
+        <img src="scikit-learn-associate-practitioner-certification%20(2).png" width="140" alt="Scikit-learn Associate Practitioner"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.credly.com/badges/56043961-76e2-4a06-8cb7-158a01dc7eaf/public_url">
+        <img src="associate-cloud-engineer-certification.png" width="140" alt="Associate Cloud Engineer"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">Scikit-learn Associate Practitioner</td>
+    <td align="center">Associate Cloud Engineer</td>
+  </tr>
+</table>
