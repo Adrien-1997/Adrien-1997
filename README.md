@@ -1,43 +1,46 @@
 # Adrien Morel
-
-Paris · Remote-friendly  
-[GitHub](https://github.com/Adrien-1997) · [LinkedIn](https://www.linkedin.com/in/adrien-morel/) · [Email](mailto:adrien.morel@gmail.com)
+**Paris · Remote-friendly**  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-adrien--morel-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/adrien-morel/)
+[![Email](https://img.shields.io/badge/Email-adrien.morel%40gmail.com-EA4335?style=flat&logo=gmail)](mailto:adrien.morel@gmail.com)
+[![Kaggle](https://img.shields.io/badge/Kaggle-Top%202%25-20BEFF?style=flat&logo=kaggle)](https://www.kaggle.com/)
 
 ---
 
-ML Engineer / Data Scientist
+## Machine Learning Engineer
 
-Applied machine learning with a focus on signal quality, rigorous evaluation, and reproducible production systems.
+End-to-end ML systems — from feature engineering and training to deployment, monitoring and drift detection. I build **production-grade pipelines** that are reproducible, observable, and maintainable.
+
+Currently focused on: **MLOps · LLM applications · Time series forecasting · Anomaly detection**
 
 ---
 
 ## Stack
 
-Python · SQL · NumPy · Pandas · SciPy · scikit-learn · MLflow · PyTorch · Git · CI/CD · Cloud
-
----
-
-## Focus areas
-
-- Feature engineering
-- Time series and anomaly detection
-- Model evaluation and diagnostics
-- Reproducible training and inference
+| Area | Tools |
+|------|-------|
+| **ML / Modeling** | scikit-learn · LightGBM · XGBoost · PyTorch · Optuna |
+| **LLMs & GenAI** | Hugging Face Transformers · LangChain · RAG pipelines · OpenAI / Anthropic APIs |
+| **MLOps** | MLflow · Evidently · Docker · CI/CD (GitHub Actions) · FastAPI |
+| **Cloud (GCP)** | Vertex AI · Cloud Run · BigQuery · Cloud Scheduler · Artifact Registry |
+| **Data** | Python · SQL · Pandas · NumPy · SciPy · Snowflake · PostgreSQL |
 
 ---
 
 ## Projects
 
-**[elec-forecast](https://github.com/Adrien-1997/elec-forecast)** — End-to-end ML pipeline for 24h electricity demand forecasting across 12 French regions. LightGBM · BigQuery · Cloud Run · MLflow · Streamlit · [Live dashboard](https://elec-dashboard-931951823998.europe-west9.run.app)
+**[elec-forecast](https://github.com/Adrien-1997/elec-forecast)** — End-to-end ML pipeline for 24h electricity demand forecasting across 12 French regions.  
+`LightGBM` `BigQuery` `Cloud Run` `MLflow` `Streamlit` · [Live dashboard →](https://elec-dashboard-931951823998.europe-west9.run.app)
 
-**velo-paris.fr** — Production ML forecasting system for Vélib bike-share availability in Paris.
+**[velo-paris.fr](https://www.velo-paris.fr)** — Production ML forecasting system for Vélib bike-share availability across 1,500+ Paris stations.  
+`scikit-learn` `FastAPI` `MLflow` `GCP` `Evidently` · Automated retraining · Drift monitoring
 
 ---
 
-## Work
+## Experience highlights
 
-- Open-source contributor to Skore (Probabl) — ML evaluation and API quality
-- Author of velo-paris.fr — production ML forecasting system
+- **Freelance ML Engineer** *(2024–present)* — Designed and deployed scalable AI/ML systems on GCP; built reproducible pipelines with MLOps best practices
+- **Data Scientist @ SNCF Réseau** *(2022–2023)* — Spectral analysis + anomaly detection on railway sensor data; −50% manual analysis time
+- **Data Scientist @ Transdev** *(2021–2022)* — NLP pipeline for customer feedback (Twitter), Power BI dashboards, Snowflake migration
 
 ---
 
@@ -47,17 +50,29 @@ Python · SQL · NumPy · Pandas · SciPy · scikit-learn · MLflow · PyTorch �
   <tr>
     <td align="center">
       <a href="https://www.credly.com/badges/198a2362-2d33-4a72-8f9e-f96102ffddec/public_url">
-        <img src="scikit-learn-associate-practitioner-certification%20(2).png" width="140" alt="Scikit-learn Associate Practitioner"/>
-      </a>
+        <img src="scikit-learn-associate-practitioner-certification%20(2).png" width="130" alt="Scikit-learn Associate Practitioner"/>
+      </a><br/>
+      <sub>Scikit-learn Associate Practitioner<br/><i>Probabl / Inria — 01/2026</i></sub>
     </td>
     <td align="center">
       <a href="https://www.credly.com/badges/56043961-76e2-4a06-8cb7-158a01dc7eaf/public_url">
-        <img src="associate-cloud-engineer-certification.png" width="140" alt="Associate Cloud Engineer"/>
-      </a>
+        <img src="associate-cloud-engineer-certification.png" width="130" alt="Associate Cloud Engineer"/>
+      </a><br/>
+      <sub>Associate Cloud Engineer<br/><i>Google Cloud — 02/2026</i></sub>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/GCP-Professional%20ML%20Engineer-4285F4?style=flat&logo=googlecloud" width="160" alt="GCP Professional ML Engineer"/><br/><br/>
+      <sub>Professional ML Engineer<br/><i>Google Cloud — 02/2026</i></sub>
     </td>
   </tr>
-  <tr>
-    <td align="center">Scikit-learn Associate Practitioner</td>
-    <td align="center">Associate Cloud Engineer</td>
-  </tr>
 </table>
+
+---
+
+## Open source
+
+- Contributor to **[Skore](https://github.com/probabl-ai/skore)** (Probabl) — ML evaluation tooling and API quality for the scikit-learn ecosystem
+
+---
+
+<sub>Engineering degree in Applied Mathematics & HPC · CY Tech + Universidad de A Coruña (dual degree)</sub>
