@@ -61,7 +61,7 @@ Currently focused on: **MLOps · LLM applications · Time series forecasting · 
       <sub>Associate Cloud Engineer<br/><i>Google Cloud — 02/2026</i></sub>
     </td>
     <td align="center">
-      <img src="https://img.shields.io/badge/GCP-Professional%20ML%20Engineer-4285F4?style=flat&logo=googlecloud" width="160" alt="GCP Professional ML Engineer"/><br/><br/>
+      <img src="professional-ml-engineer-certification.png" width="130" alt="GCP Professional ML Engineer"/><br/><br/>
       <sub>Professional ML Engineer<br/><i>Google Cloud — 02/2026</i></sub>
     </td>
   </tr>
