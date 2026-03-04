@@ -64,7 +64,7 @@ Currently focused on: **MLOps · LLM applications · Time series forecasting · 
       <a href="YOUR_CREDLY_URL_HERE">
         <img src="professional-ml-engineer-certification.png" width="130" alt="GCP Professional ML Engineer"/>
       </a><br/>
-      <sub>Professional ML Engineer<br/><i>Google Cloud — 02/2026</i></sub>
+      <sub>Professional ML Engineer<br/><i>Google Cloud — 03/2026</i></sub>
     </td>
   </tr>
 </table>
