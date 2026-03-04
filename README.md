@@ -48,20 +48,22 @@ Currently focused on: **MLOps · LLM applications · Time series forecasting · 
 
 <table>
   <tr>
-    <td align="center">
+    <td align="center" width="33%">
       <a href="https://www.credly.com/badges/198a2362-2d33-4a72-8f9e-f96102ffddec/public_url">
         <img src="scikit-learn-associate-practitioner-certification%20(2).png" width="130" alt="Scikit-learn Associate Practitioner"/>
       </a><br/>
       <sub>Scikit-learn Associate Practitioner<br/><i>Probabl / Inria — 01/2026</i></sub>
     </td>
-    <td align="center">
+    <td align="center" width="33%">
       <a href="https://www.credly.com/badges/56043961-76e2-4a06-8cb7-158a01dc7eaf/public_url">
         <img src="associate-cloud-engineer-certification.png" width="130" alt="Associate Cloud Engineer"/>
       </a><br/>
       <sub>Associate Cloud Engineer<br/><i>Google Cloud — 02/2026</i></sub>
     </td>
-    <td align="center">
-      <img src="professional-ml-engineer-certification.png" width="130" alt="GCP Professional ML Engineer"/><br/><br/>
+    <td align="center" width="33%">
+      <a href="YOUR_CREDLY_URL_HERE">
+        <img src="professional-ml-engineer-certification.png" width="130" alt="GCP Professional ML Engineer"/>
+      </a><br/>
       <sub>Professional ML Engineer<br/><i>Google Cloud — 02/2026</i></sub>
     </td>
   </tr>
