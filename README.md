@@ -1,8 +1,5 @@
 # Adrien Morel
-**Paris · Remote-friendly**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-adrien--morel-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/adrien-morel/)
-[![Email](https://img.shields.io/badge/Email-adrien.morel%40gmail.com-EA4335?style=flat&logo=gmail)](mailto:adrien.morel@gmail.com)
-[![Kaggle](https://img.shields.io/badge/Kaggle-Top%202%25-20BEFF?style=flat&logo=kaggle)](https://www.kaggle.com/)
+**Paris · Remote-friendly**
 
 ---
 
